@@ -1,5 +1,5 @@
 # 🌿 Paradise Nursery Shopping App
-This project is the final assignment for the Developing Front-End Apps with React course on Coursera, part of the Developing Front-End Apps with React IBM Certificate. The application serves as the front end for a fictional online plant nursery, allowing users to browse houseplants, add them to a cart, and manage their shopping experience.
+This project is the final assignment for the Developing Front-End Apps with React course on Coursera, which is part of the IBM Full Stack Software Developer Professional Certificate. The application is for a fictional online plant nursery, allowing users to browse houseplants, add them to a cart, and manage their shopping experience.
 
 ***
 ## 🏡 Features
